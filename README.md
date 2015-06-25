@@ -1,6 +1,6 @@
 # ezTypewriter
 
-## Demo & Examples & Test
+## Demo & Examples
 
 [http://www.ezramorse.com/js/ezTypewriter/demo/demo.html](http://www.ezramorse.com/js/ezTypewriter/demo/demo.html)
 
