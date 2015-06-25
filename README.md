@@ -1,6 +1,6 @@
 # ezTypewriter
 
-## Demo & Examples (WebHook Test)
+## Demo & Examples
 
 [http://www.ezramorse.com/js/ezTypewriter/demo/demo.html](http://www.ezramorse.com/js/ezTypewriter/demo/demo.html)
 
